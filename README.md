@@ -65,7 +65,7 @@ The datasets with the columns included are listed below. More information about 
 
 ## Exploratory Data Analysis
 To get an understanding of the number of countries per region this was ploted in a graph  
-![Number of countries per region](Images/number_of_countries_by_region.png "Number of countries per region)
+![Number of countries per region](Images/number_of_countries_by_region.png "Number of countries per region")
 
 Images/number_of_countries_by_region.png
 
