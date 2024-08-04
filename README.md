@@ -65,30 +65,31 @@ The datasets with the columns included are listed below. More information about 
 
 ## Exploratory Data Analysis
 To get an understanding of the number of countries per region this was ploted in a graph  
+
+  
 ![Number of countries per region](Images/number_of_countries_by_region.png "Number of countries per region")
 
-The distribution of the different columns was also ploted to identify outliers - most were found in the perceptions of corruption column.  
+  
+The distribution of the different columns was also ploted to identify outliers - most were found in the perceptions of corruption column  
+
+  
 ![Distribution of data](Images/distribution-of-data.png "Distribution of data")
 
+  
 The top 5 and bottom 5 countries in terms of happiness score  
-ADD PICTURE  
 
+  
+![Topp and bottom 5](Images/top_bottom_five.png "Topp and bottom 5")  
+
+  
 Next the distribution of happiness score per region was examined. Showing that "Western Europe" and "North America and ANZ" are the regions with the highest happiness score in general, while "The Middle East and North Africa" have the widest distribution of happiness scores between countries  
-ADD PICTURE
+![Distribution of happiness score by region](Images/distribution_of_happiness_score_by_region.png "Distribution of happiness score by region")
 
 The correlation between the columns was examined to understand which have the highest correlation to happiness score  
-ADD PICTURE  
+![Parameter correlations](Images/parameter_correlations.png "Parameter correlations")
 
 Since Social Support had the highest correlation this was visualized in a scatter plot  
-ADD PICTURE
+![Happiness score in relation to social support](Images/happiness_score_in_relation_to_social_support.png "Happiness score in relation to social support")
 
 Finally an animated choropleth map was done to showcase how the happiness score of countires has changed over time. Below is a png of the map, run the code to see the full animated map  
-ADD PICTURE
-
-
-
-
-
-
-
-
+![Happiness score over time](Images/happiness_score_over_time_choropleth_map.png "Happiness score over time")
