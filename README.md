@@ -79,6 +79,12 @@ ADD PICTURE
 The correlation between the columns was examined to understand which have the highest correlation to happiness score  
 ADD PICTURE  
 
+Since Social Support had the highest correlation this was visualized in a scatter plot  
+ADD PICTURE
+
+Finally an animated choropleth map was done to showcase how the happiness score of countires has changed over time
+ADD choropleth map if possible
+
 
 
 
