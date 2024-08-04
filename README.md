@@ -1,4 +1,4 @@
-# World Happiness Report: Project overview
+# World Happiness Report EDA: Project overview
 
 ## Summary
 This project explores the data from the world happiness report a globally recognized survey on happiness indicators. 
