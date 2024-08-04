@@ -7,11 +7,11 @@ The project covered the following:
 
 Main conclusions
 * The countries with the highest happiness score in 2023 are:
-  ⋅⋅1. Finland
-  ⋅⋅2. Denmark
-  ⋅⋅3. Iceland
-  ⋅⋅4. Sweden
-  ⋅⋅5. Israel
+  1. Finland
+  2. Denmark
+  3. Iceland
+  4. Sweden
+  5. Israel
 * The countries with the lowest happiness score in 2023 are:
   ..1. Afghanistan
   ..2. Lebanon
