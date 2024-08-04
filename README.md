@@ -67,10 +67,8 @@ The datasets with the columns included are listed below. More information about 
 To get an understanding of the number of countries per region this was ploted in a graph  
 ![Number of countries per region](Images/number_of_countries_by_region.png "Number of countries per region")
 
-Images/number_of_countries_by_region.png
-
 The distribution of the different columns was also ploted to identify outliers - most were found in the perceptions of corruption column.  
-ADD PICTURE  
+![Distribution of data](Images/distribution-of-data.png "Distribution of data")
 
 The top 5 and bottom 5 countries in terms of happiness score  
 ADD PICTURE  
