@@ -27,7 +27,7 @@ The main conclusions are:
 * "Western Europe" and "North America and ANZ" are the regions with the highest happiness score in general, while "The Middle East and North Africa" have the widest distribution of happiness scores between countries
 
 ## Code and resources used
-**Python Version:** 3.11.5
+**Python Version:** 3.11.5  
 **Packages:** Numpy, Pandas, Seaborn, Matplotlib, Plotly
 
 ## Data
