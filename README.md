@@ -64,6 +64,22 @@ The datasets with the columns included are listed below. More information about 
 * Created new data frame only containing columns relevant for the 2023 analysis
 
 ## Exploratory Data Analysis
+To get an understanding of the number of countries per region this was ploted in a graph  
+ADD PICTURE  
+
+The distribution of the different columns was also ploted to identify outliers - most were found in the perceptions of corruption column.  
+ADD PICTURE  
+
+The top 5 and bottom 5 countries in terms of happiness score  
+ADD PICTURE  
+
+Next the distribution of happiness score per region was examined. Showing that "Western Europe" and "North America and ANZ" are the regions with the highest happiness score in general, while "The Middle East and North Africa" have the widest distribution of happiness scores between countries  
+ADD PICTURE
+
+The correlation between the columns was examined to understand which have the highest correlation to happiness score  
+ADD PICTURE  
+
+
 
 
 
