@@ -59,11 +59,11 @@ The datasets with the columns included are listed below. More information about 
   * Positive affect
   * Negative affect
 
-## Data Cleaning
+## Data Cleaning  
+* Replaced null values with means for each column for both data sets
+* Created new data frame only containing columns relevant for the 2023 analysis
 
-
-
-
+## Exploratory Data Analysis
 
 
 
