@@ -82,8 +82,8 @@ ADD PICTURE
 Since Social Support had the highest correlation this was visualized in a scatter plot  
 ADD PICTURE
 
-Finally an animated choropleth map was done to showcase how the happiness score of countires has changed over time
-ADD choropleth map if possible
+Finally an animated choropleth map was done to showcase how the happiness score of countires has changed over time. Below is a png of the map, run the code to see the full animated map  
+ADD PICTURE
 
 
 
